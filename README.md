@@ -1,6 +1,7 @@
 # COVID19 Dashboard
 
 >This dashboard created using tableau allow you to know information about Covid19 for each country and distibuation of covid19 on WorldMap.
+
 >You can choose a country from drop down list or select it from the Map to display the below info:
   1. Total cases for each country
   2. Total deaths for each country
